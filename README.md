@@ -1,3 +1,29 @@
+![YamaGotchi](YamaGraphics/YamaGotchi.png)
+
+I was thinking how to explain you what I am doing here in the repository:
+- Is this an architecture of an AI model?
+- Is this a joke?
+- Am I trying to convince you in something?
+
+What actually happens, can be explained in this simple word: YamaGotchi.
+- Tamagotchi was a toy pet on screen, which had no complexity nor any connection to actual pet. This kind of pet would not function, it's anime-style poppett.
+- Yama: I.A. is A.I. in Spanish, where I live.
+- Gotchi: it sounds similar to Car in Spanish.
+
+So I mixed them all to nonsense word to tell you this:
+- The model below is kind of architecture, but it's achieved through *dimensional collapse* and *merging of similar dimensions* in AI architecture.
+- It contains all perceptron components and interactions, but each multiplicity is taken down to 2, each singularity is 1 but multiple of them could be close to be connected.
+- It's not multidigit number: it's single-digit number, altough the emulation on screen does some magic if it has to do "0.00000001" of this computation - smart computer deduces that it has to do some float math even if it has such digits, and thus CoPilot rather projected them into solution sets.
+- Simplest matrix configuration and hologram-frequential simplicity of Laegna Number System was used to find particular four digits, represented by two bits each.
+
+Thus, a tamagotchi-AI was born:
+- Not able to do anything at all, altough it has *memory and logic to do a rudimentary amount of anything a real AI would do.
+  - It could see logic in 4 letters already produced, in it's GPT implementation, and answer with one letter - progressively, it produces 4 letters but it's now actually at it's new iteration, forgot what was there. I ching symbols are made of 6 lines and their connections - it could vaguely understand most primitive connections of single position-outcome-newposition of I Ching, altough it would tend to forget past symbols or go to infinite loops as it does not have many actual choices - like 256*256 ways to be would be rough approximation of it's stateful complexity of possibilities.
+
+I add Comics to the whole file so you cannot forget this toylike manner of imagination and visualization.
+
+---
+
 ![Cover](Graphics/Cover.jpg)
 
 <br>
