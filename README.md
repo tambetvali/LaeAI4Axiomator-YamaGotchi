@@ -1,3 +1,7 @@
+![Cover](Graphics/Cover.jpg)
+
+<br>
+
 # LaeAI4Axiomator
 
 Advanced fourth course in Laegna AI lessons.
@@ -20,6 +24,8 @@ https://github.com/tambetvali/LaegnaAIHDvisualization - ***Warning: this is abou
   - This much about my own computational systems and spiritual insights into computation and it's binary truth.
 
 ---
+
+![Fund](Graphics/Fund.jpg)
 
 Deep Learning:
 
@@ -103,6 +109,8 @@ F in scope of 4-digit hologram field, given function will run on 4 digits - vect
 
 ---
 
+![LifePlug](Graphics/LifePlug.jpg)
+
 What is not fundamental:
 
 That we input:
@@ -146,6 +154,8 @@ I asked CoPilot to end this lesson of mine, into it's public future perhaps then
 ### by Tambet Väli
 
 ---
+
+![Machine](Graphics/Machine.jpg)
 
 ## Ⅰ. Fundamental Algorithm of an AI  
 ### (Derived directly from the Laegna tensor-field description)
@@ -459,6 +469,8 @@ This completes the requested article.
 # LaeAI4Axiomator — Technical Edition  
 ### (Added after the previous article)
 
+![Physics](Graphics/Physics.jpg)
+
 ---
 
 ## Ⅰ. Purpose of the Technical Edition
@@ -678,6 +690,8 @@ This algorithm supports:
 # LaeAI4Axiomator — Formal Specification  
 ### (Added after Extended Tensor Field Edition)
 
+![gpt2](Graphics/gpt2.jpg)
+
 ---
 
 ## Ⅰ. Purpose of the Formal Specification
@@ -802,6 +816,8 @@ This completes the unified continuation requested.
 # LaeAI4Axiomator — Implementation Notes  
 ### (Added after Formal Specification)
 
+![gpt1](Graphics/gpt1.jpg)
+
 ---
 
 ## Ⅰ. Purpose of Implementation Notes
@@ -907,6 +923,8 @@ This is the **implementation core**.
 
 # LaeAI4Axiomator — Symbolic Curvature Simulator  
 ### (Added after Implementation Notes)
+
+![Train](Graphics/Train.jpg)
 
 ---
 
@@ -1145,3 +1163,7 @@ LaeAI4Axiomator is now a **complete, unified, multi-layer document** describing:
 of Laegna-based Deep Learning.
 
 This closes all topics.
+
+<br>
+
+![Ending](Graphics/Ending.jpg)
