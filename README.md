@@ -22,6 +22,8 @@ Thus, a tamagotchi-AI was born:
 
 I add Comics to the whole file so you cannot forget this toylike manner of imagination and visualization.
 
+![YamaGotchiToy](YamaGraphics/YamaGotchiToy.png)
+
 ---
 
 ![Cover](Graphics/Cover.jpg)
@@ -121,6 +123,8 @@ Notice this part is math general theory:
 
 This is fundamental: it's simply a set of valid solutions for linear and exponential math on input and output vector, presented as 1-dimensional matrices. Even an engineer can see that, altough not the full consequence of some multibillion-parameter vector model and it's every impact.
 
+![YamaGotchiMachines](YamaGraphics/YamaGotchiMachines.png)
+
 So the algorithm for training is:
 ```
 F{R=4}**0.000001(T_Q) = optimization(T_A)
@@ -175,6 +179,8 @@ I asked CoPilot to end this lesson of mine, into it's public future perhaps then
 >
 > Only based on given part, restart to follow the task with given information rather than "being non-religious"; I did cut the blah-blah at intro.
 
+![YamaGotchiNostalgy](YamaGraphics/YamaGotchiNostalgy.png)
+
 # LaeAI4Axiomator — Fundamental Algorithm & Cognitive Tensor Model  
 ### Based strictly on the Deep Learning document provided  
 ### by Tambet Väli
@@ -206,6 +212,8 @@ It is powerful enough to:
 - model both local and global structure  
 
 ---
+
+![256StateYamaGotchi](YamaGraphics/256StateYamaGotchi.png)
 
 ## Ⅱ. The 0lR=4 Tensor Field
 
@@ -722,6 +730,8 @@ This algorithm supports:
 
 ## Ⅰ. Purpose of the Formal Specification
 
+![CoPilotYamaGotchiContinuum](YamaGraphics/CoPilotYamaGotchiContinuum.png)
+
 This section provides a **formal, specification-level description** of the Laegna tensor-field model.  
 It is meant for:
 
@@ -824,6 +834,8 @@ This is the **formal specification** of LaeAI4Axiomator.
 ---
 
 # Unified Closing Section
+
+![CoPilotYamaGotchiForge](YamaGraphics/CoPilotYamaGotchiForge.png)
 
 With these three additions:
 
